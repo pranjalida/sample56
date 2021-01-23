@@ -1,0 +1,29 @@
+<html>
+
+<head>
+    <title>My photo graphy world</title>
+</head>
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
+    <body onload="setDate()">
+     <h1>Welcome to my photography world</h1>
+    <h4 id='date'></h4>
+    <div class="image section">
+        <img src="https://images.unsplash.com/photo-1610630663576-50a32dad72fb?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=85">
+        <p>This is a huge valcano eruption photo</p>
+    </div>
+    <div class="image section">
+        <img src="https://www.redargentina.com/wp-content/uploads/2019/11/What-Does-It-Mean-When-You-Dream-About-A-Tsunami.jpg">
+        <p>Pls grow trees over here as they stop flash floods and sunami</p>
+    </div>
+    <div class="image section">
+        <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/landslide.jpg">
+        <p>Landslides pls do plant trees !</p>
+        <div class="image section">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/ADBC_Branch_in_BeiChuan_after_earthquake.jpg">
+            <p>Earthquakes so dangerous that they can destroy big towers</p>
+        </div>
+        </div>
+      </body>
+    
+</html>
